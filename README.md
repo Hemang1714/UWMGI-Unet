@@ -1,4 +1,4 @@
-# UWMGI-Unet
+# GI Tract Image Segmentation using Unet
 ## About the Dataset
 ##### 
 The UWMGI dataset (UW-Madison Gastrointestinal Tract Image Segmentation) is a publicly available dataset of medical images focused on the gastrointestinal tract. It primarily consists of:
